@@ -1,23 +1,19 @@
-# Nextra Docs Template 
+# FlitchPAY: UPI for Web3 💰
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+FlitchPAY is a powerful UPI (Unified Payment Interface) for the world of Web3, designed to simplify financial transactions for developers and businesses in the decentralized ecosystem.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Features
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+- Seamless Integration: Easily integrate FlitchPAY into your web3 applications with our developer-friendly APIs.
 
-## Quick Start
+- Secure Transactions: Ensure the security of your financial interactions on the blockchain.
 
-Click the button to clone this repository and deploy it on Vercel:
+- Decentralized Ledger: Benefit from a transparent and tamper-proof ledger for all your transactions.
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+- Cross-Platform Support: FlitchPAY supports various blockchain networks, making it versatile for your needs.
 
-## Local Development
+- Extensive Documentation: Find comprehensive documentation and examples in our [Documentation](#documentation) section.
 
-First, run `pnpm i` to install the dependencies.
+## Getting Started
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+### Setup Coming Soon.
