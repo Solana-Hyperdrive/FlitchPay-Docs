@@ -17,3 +17,11 @@ FlitchPAY is a powerful UPI (Unified Payment Interface) for the world of Web3, d
 ## Getting Started
 
 ### Setup Coming Soon.
+
+## Our Contributors
+
+<a href="https://github.com/Solana-Hyperdrive/FlitchPay-Docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Solana-Hyperdrive/FlitchPay-Docs" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
